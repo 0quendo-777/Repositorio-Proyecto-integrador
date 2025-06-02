@@ -1,5 +1,5 @@
 # Repositorio-Proyecto-integrador
-Creación de Aplicación de orientación vocacional para estudiantes nuevos de ingeniería de sistemas que van a aplicar a la UNAC
+Creación de Aplicación de orientación vocacional para estudiantes nuevos de ingeniería de sistemas *(SOVIS)* que van a aplicar a la UNAC
 
 INTEGRANTES:
 - Juan José Oquendo Jaramillo
